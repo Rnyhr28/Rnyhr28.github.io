@@ -30,6 +30,11 @@ img.Avatar {
   border:#4263eb solid 4px;
 }
 
+img.socialicons {
+  width: 16px;
+  height: 16px;
+  margin-right: 5px;
+}
 
 h1 {
   margin-top: 24px;
